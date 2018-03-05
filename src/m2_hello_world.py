@@ -60,7 +60,7 @@ print('Hello, World')
 # TODO: 3.
 #   Add another   print   statement below the current Line 1 above.
 #   It should print any string that you want (but keep it G-rated!)
-#
+print("Hi my name is TJ.")
 #   Test your code by re-running this module, either by proceeding as you did
 #   when you ran this module the first time, or by pressing the green-triangle
 #   "Play" button that is on the toolbar at the top of this window.
@@ -75,7 +75,7 @@ print('Hello, World')
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
 #   You do NOT have to use strings for this, so no quotation marks!
-#
+print(3607*34227)
 #   TEST your code by re-running this module, then asking someone
 #   whom you trust:  What number did your   print   display for this TO-DO?
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
